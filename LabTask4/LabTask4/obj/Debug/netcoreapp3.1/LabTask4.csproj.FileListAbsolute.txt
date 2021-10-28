@@ -1,0 +1,14 @@
+D:\AIUB\FALL 21-22\OOP2\LabTask4\LabTask4\bin\Debug\netcoreapp3.1\LabTask4.exe
+D:\AIUB\FALL 21-22\OOP2\LabTask4\LabTask4\bin\Debug\netcoreapp3.1\LabTask4.deps.json
+D:\AIUB\FALL 21-22\OOP2\LabTask4\LabTask4\bin\Debug\netcoreapp3.1\LabTask4.runtimeconfig.json
+D:\AIUB\FALL 21-22\OOP2\LabTask4\LabTask4\bin\Debug\netcoreapp3.1\LabTask4.runtimeconfig.dev.json
+D:\AIUB\FALL 21-22\OOP2\LabTask4\LabTask4\bin\Debug\netcoreapp3.1\LabTask4.dll
+D:\AIUB\FALL 21-22\OOP2\LabTask4\LabTask4\bin\Debug\netcoreapp3.1\LabTask4.pdb
+D:\AIUB\FALL 21-22\OOP2\LabTask4\LabTask4\obj\Debug\netcoreapp3.1\LabTask4.csproj.AssemblyReference.cache
+D:\AIUB\FALL 21-22\OOP2\LabTask4\LabTask4\obj\Debug\netcoreapp3.1\LabTask4.GeneratedMSBuildEditorConfig.editorconfig
+D:\AIUB\FALL 21-22\OOP2\LabTask4\LabTask4\obj\Debug\netcoreapp3.1\LabTask4.AssemblyInfoInputs.cache
+D:\AIUB\FALL 21-22\OOP2\LabTask4\LabTask4\obj\Debug\netcoreapp3.1\LabTask4.AssemblyInfo.cs
+D:\AIUB\FALL 21-22\OOP2\LabTask4\LabTask4\obj\Debug\netcoreapp3.1\LabTask4.csproj.CoreCompileInputs.cache
+D:\AIUB\FALL 21-22\OOP2\LabTask4\LabTask4\obj\Debug\netcoreapp3.1\LabTask4.dll
+D:\AIUB\FALL 21-22\OOP2\LabTask4\LabTask4\obj\Debug\netcoreapp3.1\LabTask4.pdb
+D:\AIUB\FALL 21-22\OOP2\LabTask4\LabTask4\obj\Debug\netcoreapp3.1\LabTask4.genruntimeconfig.cache
